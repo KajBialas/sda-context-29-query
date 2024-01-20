@@ -1,10 +1,8 @@
 import { QueryClient, QueryClientProvider } from "react-query"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Todos from "./pages/Todos";
-import AddTodo from "./pages/AddTodo";
 import Header from "./components/Header";
-
+import Products from "./pages/Products";
 const queryClient = new QueryClient();
 
 // Zadanie 1
@@ -21,8 +19,8 @@ function App() {
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/todos" element={<Todos />} />
-            <Route path="/addTodo" element={<AddTodo />} />
+            <Route path="/products" element={<Products />} />
+
           </Routes>
         </Router>
       </QueryClientProvider>

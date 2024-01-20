@@ -27,28 +27,28 @@
       "title": "Super komputer gamingowy",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor feugiat porttitor. Aenean sed tristique nulla. Vivamus ornare tellus est, id molestie mi elementum vel. Nam lacinia lectus ac augue lobortis, a aliquet neque ornare. Praesent efficitur libero a mauris varius cursus. Phasellus tincidunt diam ex, et mollis dolor sodales molestie. Fusce semper mollis lorem, in rutrum elit iaculis in. Nulla hendrerit vestibulum metus, at tincidunt dolor vulputate vitae. In ut est mi. Nullam commodo leo nec erat fringilla sodales. Sed tristique faucibus nunc, sed cursus arcu mollis sit amet. Sed rutrum dui vel pellentesque tempus. Praesent posuere odio non felis consectetur facilisis. Sed et venenatis leo.",
       "price": 10,
-      "categories": ["computer"]
+      "categories": "computer"
     },
     {
       "id": 2,
       "title": "Smartfon",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor feugiat porttitor. Aenean sed tristique nulla. Vivamus ornare tellus est, id molestie mi elementum vel. Nam lacinia lectus ac augue lobortis, a aliquet neque ornare. Praesent efficitur libero a mauris varius cursus. Phasellus tincidunt diam ex, et mollis dolor sodales molestie. Fusce semper mollis lorem, in rutrum elit iaculis in. Nulla hendrerit vestibulum metus, at tincidunt dolor vulputate vitae. In ut est mi. Nullam commodo leo nec erat fringilla sodales. Sed tristique faucibus nunc, sed cursus arcu mollis sit amet. Sed rutrum dui vel pellentesque tempus. Praesent posuere odio non felis consectetur facilisis. Sed et venenatis leo.",
       "price": 799,
-      "categories": ["electronics", "phone"]
+      "categories": "phone"
     },
     {
       "id": 3,
       "title": "Laptop",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor feugiat porttitor. Aenean sed tristique nulla. Vivamus ornare tellus est, id molestie mi elementum vel. Nam lacinia lectus ac augue lobortis, a aliquet neque ornare. Praesent efficitur libero a mauris varius cursus. Phasellus tincidunt diam ex, et mollis dolor sodales molestie. Fusce semper mollis lorem, in rutrum elit iaculis in. Nulla hendrerit vestibulum metus, at tincidunt dolor vulputate vitae. In ut est mi. Nullam commodo leo nec erat fringilla sodales. Sed tristique faucibus nunc, sed cursus arcu mollis sit amet. Sed rutrum dui vel pellentesque tempus. Praesent posuere odio non felis consectetur facilisis. Sed et venenatis leo.",
       "price": 1299,
-      "categories": ["computer"]
+      "categories": "computer"
     },
     {
       "id": 4,
       "title": "Telewizor 4K",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor feugiat porttitor. Aenean sed tristique nulla. Vivamus ornare tellus est, id molestie mi elementum vel. Nam lacinia lectus ac augue lobortis, a aliquet neque ornare. Praesent efficitur libero a mauris varius cursus. Phasellus tincidunt diam ex, et mollis dolor sodales molestie. Fusce semper mollis lorem, in rutrum elit iaculis in. Nulla hendrerit vestibulum metus, at tincidunt dolor vulputate vitae. In ut est mi. Nullam commodo leo nec erat fringilla sodales. Sed tristique faucibus nunc, sed cursus arcu mollis sit amet. Sed rutrum dui vel pellentesque tempus. Praesent posuere odio non felis consectetur facilisis. Sed et venenatis leo.",
       "price": 1999,
-      "categories": ["electronics", "tv"]
+      "categories": "tv"
     }
   ],
   "categories": [
